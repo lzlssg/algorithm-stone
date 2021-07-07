@@ -41,10 +41,10 @@
 
 #### Tree路线图（进度100%）
 1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_tree.svg">
+<img src="./images/leetcode_tree.svg">
 
 #### 动态规划路线图（进度40%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_dp.svg">
+<img src="./images/leetcode_dp.svg">
 
 <!-- #### 并查集路线图（进度10%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_union_find.svg"> -->
