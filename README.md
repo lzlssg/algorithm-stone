@@ -41,10 +41,10 @@
 
 #### Tree路线图（进度100%）
 1. [动画红黑树，旋转的艺术](https://mp.weixin.qq.com/s/2AfnnCALekwo4K_okRdpNg)  
-<img src="./images/leetcode_tree.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_tree.svg">
 
 #### 动态规划路线图（进度40%）
-<img src="./images/leetcode_dp.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_dp.svg">
 
 <!-- #### 并查集路线图（进度10%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_union_find.svg"> -->
@@ -53,69 +53,69 @@
 1. [算法动画秒懂并查集](https://mp.weixin.qq.com/s/rF5bohHf3XfstGkjBawBuw)
 2. [动画解说单调栈](https://mp.weixin.qq.com/s/XsYD1lkiILcMcd3_vRws7A)  
 3. [滑动窗口入门](https://mp.weixin.qq.com/s/InpmYAfeesc7MHMCV50b-Q)  
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
 
 #### 链表路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_linked_list.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_linked_list.svg">
 
 #### 二分查找（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_binary_search.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_binary_search.svg">
 
 #### 几何题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_geometry.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_geometry.svg">
 
 #### 小众题路线图（进度100%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_mini.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/leetcode_mini.svg">
 
 ### Codeforces Div.3 Div.2路线图（进度1%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/codeforces.svg">
+<img src="https://raw.githubusercontent.com/lzlssg/algorithm-stone/main/images/codeforces.svg">
 
 ### 安装开发环境
 
-详细的开发说明参考：[开发文档](https://github.com/acm-clan/algorithm-stone/blob/main/docs/dev_zh.md)
+详细的开发说明参考：[开发文档](https://github.com/lzlssg/algorithm-stone/blob/main/docs/dev_zh.md)
 
 ### Leetcode规划模块
 以下是Leetcode所有模块，按照题目数量进行排序。  
 
 | 中文名称 | 英文名称 | 题目数量 | 整理人 | 进度 |
 | ---- | ---- | ---- | ---- | ---- |
-|[拒绝采样](https://leetcode-cn.com/tag/rejection-sampling)| `rejection-sampling`| 2 | `dansen` | 100% |  
-|[蓄水池采样](https://leetcode-cn.com/tag/reservoir-sampling)| `reservoir-sampling` | 2 |`dansen` | 100% |  
-|[记忆](https://leetcode-cn.com/tag/memoization)| memoization | 3 | `dansen`| 100% |  
-|[扫描线](https://leetcode-cn.com/tag/line-sweep)| line-sweep | 4 |`dansen` | 100% |  
-|[拓扑排序](https://leetcode-cn.com/tag/topological-sort)| `topological-sort` | 4 |`dansen` | 100% |  
-|[二分查找树](https://leetcode-cn.com/tag/binary-search-tree)| `binary-search-tree` | 5 |`dansen` | 100% |  
-|[树状数组](https://leetcode-cn.com/tag/binary-indexed-tree)| `binary-indexed-tree` | 6 |`dansen` | 100% |  
-|[随机数](https://leetcode-cn.com/tag/random)| `random`  | 6 |`dansen` | 100% |
-|[智商题](https://leetcode-cn.com/tag/brainteaser)| `brainteaser`  | 7 |`dansen` | 100% |
-|[最小最大值](https://leetcode-cn.com/tag/minimax)| `minimax`  | 7 |`dansen` | 100% |
-|[队列](https://leetcode-cn.com/tag/queue)| queue  | 10 |`dansen` | 100% |
-|[几何题](https://leetcode-cn.com/tag/geometry)| geometry  | 12 | `dansen`| 100% |
-|[排序Map](https://leetcode-cn.com/tag/ordered-map)| ordered-map  | 13 |`dansen` | 100% |
-|[线段树](https://leetcode-cn.com/tag/segment-tree)| segment-tree  | 15 | | 100% |
-|[Trie树](https://leetcode-cn.com/tag/trie)| trie  | 17 | | 100% |
-|[滑动窗口](https://leetcode-cn.com/tag/sliding-window)| sliding-window  | 25 |`dansen` | 100% |
-|[分治算法](https://leetcode-cn.com/tag/divide-and-conquer)| divide-and-conquer  | 28 | | 0% |
-|[并查集](https://leetcode-cn.com/tag/union-find)| union-find  |  29  | | 100% |
-|[递归](https://leetcode-cn.com/tag/recursion)| recursion  | 40 | | 0% |
-|[图论](https://leetcode-cn.com/tag/graph)| graph  | 43 | | 0% |
-|[堆](https://leetcode-cn.com/tag/heap)| heap  |43  |`dansen` | 100% |
-|[设计题](https://leetcode-cn.com/tag/design)| design  | 47 | | 0% |
-|[链表](https://leetcode-cn.com/tag/linked-list)| `linked-list` | 51 |`chocolate` | 100% |
-|[回溯算法](https://leetcode-cn.com/tag/backtracking)| backtracking  | 61 | | 0% |
-|[位运算](https://leetcode-cn.com/tag/bit-manipulation)| bit-manipulation  | 66 | | 0% |
-|[栈](https://leetcode-cn.com/tag/stack)| stack  | 66 |`dansen` | 100% |
-|[排序](https://leetcode-cn.com/tag/sort)| sort  |68  | | 0% |
-|[双指针](https://leetcode-cn.com/tag/two-pointers)| two-pointers  | 73 | | 0% |
-|[BFS搜索](https://leetcode-cn.com/tag/breadth-first-search)| breadth-first-search  | 76 | | 0% |
-|[二分查找](https://leetcode-cn.com/tag/binary-search)| binary-search  | 97 | | 0% |
-|[Hash表](https://leetcode-cn.com/tag/hash-table)| hash-table  | 121 | | 0% |
-|[贪心算法](https://leetcode-cn.com/tag/greedy)| greedy  | 128 | | 0% |
-|[DFS搜索](https://leetcode-cn.com/tag/depth-first-search)| depth-first-search  | 137 | | 0% |
-|[树](https://leetcode-cn.com/tag/tree)| `tree`  | 142 |`dansen` | 100% |
-|[数学题](https://leetcode-cn.com/tag/math)| math  | 191 | | 0% |
-|[字符串](https://leetcode-cn.com/tag/string)| string  | 209 | | 0% |
-|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)| `dynamic-programming` | 240 | `dansen` | | 60% |
-|[数组](https://leetcode-cn.com/tag/array)| array|310  | | 0% |
+|[拒绝采样](https://leetcode.com/tag/rejection-sampling)| `rejection-sampling`| 2 | `dansen` | 100% |  
+|[蓄水池采样](https://leetcode.com/tag/reservoir-sampling)| `reservoir-sampling` | 2 |`dansen` | 100% |  
+|[记忆](https://leetcode.com/tag/memoization)| memoization | 3 | `dansen`| 100% |  
+|[扫描线](https://leetcode.com/tag/line-sweep)| line-sweep | 4 |`dansen` | 100% |  
+|[拓扑排序](https://leetcode.com/tag/topological-sort)| `topological-sort` | 4 |`dansen` | 100% |  
+|[二分查找树](https://leetcode.com/tag/binary-search-tree)| `binary-search-tree` | 5 |`dansen` | 100% |  
+|[树状数组](https://leetcode.com/tag/binary-indexed-tree)| `binary-indexed-tree` | 6 |`dansen` | 100% |  
+|[随机数](https://leetcode.com/tag/random)| `random`  | 6 |`dansen` | 100% |
+|[智商题](https://leetcode.com/tag/brainteaser)| `brainteaser`  | 7 |`dansen` | 100% |
+|[最小最大值](https://leetcode.com/tag/minimax)| `minimax`  | 7 |`dansen` | 100% |
+|[队列](https://leetcode.com/tag/queue)| queue  | 10 |`dansen` | 100% |
+|[几何题](https://leetcode.com/tag/geometry)| geometry  | 12 | `dansen`| 100% |
+|[排序Map](https://leetcode.com/tag/ordered-map)| ordered-map  | 13 |`dansen` | 100% |
+|[线段树](https://leetcode.com/tag/segment-tree)| segment-tree  | 15 | | 100% |
+|[Trie树](https://leetcode.com/tag/trie)| trie  | 17 | | 100% |
+|[滑动窗口](https://leetcode.com/tag/sliding-window)| sliding-window  | 25 |`dansen` | 100% |
+|[分治算法](https://leetcode.com/tag/divide-and-conquer)| divide-and-conquer  | 28 | | 0% |
+|[并查集](https://leetcode.com/tag/union-find)| union-find  |  29  | | 100% |
+|[递归](https://leetcode.com/tag/recursion)| recursion  | 40 | | 0% |
+|[图论](https://leetcode.com/tag/graph)| graph  | 43 | | 0% |
+|[堆](https://leetcode.com/tag/heap)| heap  |43  |`dansen` | 100% |
+|[设计题](https://leetcode.com/tag/design)| design  | 47 | | 0% |
+|[链表](https://leetcode.com/tag/linked-list)| `linked-list` | 51 |`chocolate` | 100% |
+|[回溯算法](https://leetcode.com/tag/backtracking)| backtracking  | 61 | | 0% |
+|[位运算](https://leetcode.com/tag/bit-manipulation)| bit-manipulation  | 66 | | 0% |
+|[栈](https://leetcode.com/tag/stack)| stack  | 66 |`dansen` | 100% |
+|[排序](https://leetcode.com/tag/sort)| sort  |68  | | 0% |
+|[双指针](https://leetcode.com/tag/two-pointers)| two-pointers  | 73 | | 0% |
+|[BFS搜索](https://leetcode.com/tag/breadth-first-search)| breadth-first-search  | 76 | | 0% |
+|[二分查找](https://leetcode.com/tag/binary-search)| binary-search  | 97 | | 0% |
+|[Hash表](https://leetcode.com/tag/hash-table)| hash-table  | 121 | | 0% |
+|[贪心算法](https://leetcode.com/tag/greedy)| greedy  | 128 | | 0% |
+|[DFS搜索](https://leetcode.com/tag/depth-first-search)| depth-first-search  | 137 | | 0% |
+|[树](https://leetcode.com/tag/tree)| `tree`  | 142 |`dansen` | 100% |
+|[数学题](https://leetcode.com/tag/math)| math  | 191 | | 0% |
+|[字符串](https://leetcode.com/tag/string)| string  | 209 | | 0% |
+|[动态规划](https://leetcode.com/tag/dynamic-programming)| `dynamic-programming` | 240 | `dansen` | | 60% |
+|[数组](https://leetcode.com/tag/array)| array|310  | | 0% |
 
 
