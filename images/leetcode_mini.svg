@@ -15,7 +15,7 @@
     Leetcode-小众题
    </title>
    <g id="a_node1">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/tag/" xlink:title="Leetcode-小众题(78)">
+    <a target="_parent" xlink:href="https://leetcode.com/tag/" xlink:title="Leetcode-小众题(78)">
      <polygon fill="orangered" points="817.5,-1116 663.5,-1116 663.5,-1080 817.5,-1080 817.5,-1116" stroke="lightgrey"/>
      <text fill="white" font-family="Microsoft YaHei" font-size="14.00" text-anchor="middle" x="740.5" y="-1094.3">
       Leetcode-小众题(78)
@@ -263,7 +263,7 @@
     470
    </title>
    <g id="a_node3">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/implement-rand10-using-rand7" xlink:title="470. 用 Rand7() 实现 Rand10()">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/implement-rand10-using-rand7" xlink:title="470. 用 Rand7() 实现 Rand10()">
      <polygon fill="none" points="185,-972 0,-972 0,-936 185,-936 185,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="92.5" y="-950.9">
       470. 用 Rand7() 实现 Rand10()
@@ -297,7 +297,7 @@
     478
    </title>
    <g id="a_node4">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/generate-random-point-in-a-circle" xlink:title="478. 在圆内随机生成点">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/generate-random-point-in-a-circle" xlink:title="478. 在圆内随机生成点">
      <polygon fill="none" points="162.5,-900 22.5,-900 22.5,-864 162.5,-864 162.5,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="92.5" y="-878.9">
       478. 在圆内随机生成点
@@ -339,7 +339,7 @@
     497
    </title>
    <g id="a_node6">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles" xlink:title="497. 非重叠矩形中的随机点">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/random-point-in-non-overlapping-rectangles" xlink:title="497. 非重叠矩形中的随机点">
      <polygon fill="none" points="174.5,-828 10.5,-828 10.5,-792 174.5,-792 174.5,-828" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="92.5" y="-806.9">
       497. 非重叠矩形中的随机点
@@ -369,7 +369,7 @@
     519
    </title>
    <g id="a_node7">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/random-flip-matrix" xlink:title="519. 随机翻转矩阵">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/random-flip-matrix" xlink:title="519. 随机翻转矩阵">
      <polygon fill="none" points="150.5,-756 34.5,-756 34.5,-720 150.5,-720 150.5,-756" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="92.5" y="-734.9">
       519. 随机翻转矩阵
@@ -391,7 +391,7 @@
     528
    </title>
    <g id="a_node8">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/random-pick-with-weight" xlink:title="528. 按权重随机选择">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/random-pick-with-weight" xlink:title="528. 按权重随机选择">
      <polygon fill="none" points="156.5,-684 28.5,-684 28.5,-648 156.5,-648 156.5,-684" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="92.5" y="-662.9">
       528. 按权重随机选择
@@ -413,7 +413,7 @@
     710
    </title>
    <g id="a_node9">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/random-pick-with-blacklist" xlink:title="710. 黑名单中的随机数">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/random-pick-with-blacklist" xlink:title="710. 黑名单中的随机数">
      <polygon fill="none" points="162.5,-612 22.5,-612 22.5,-576 162.5,-576 162.5,-612" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="92.5" y="-590.9">
       710. 黑名单中的随机数
@@ -435,7 +435,7 @@
     382
    </title>
    <g id="a_node11">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/linked-list-random-node" xlink:title="382. 链表随机节点">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/linked-list-random-node" xlink:title="382. 链表随机节点">
      <polygon fill="none" points="323.5,-972 207.5,-972 207.5,-936 323.5,-936 323.5,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="265.5" y="-950.9">
       382. 链表随机节点
@@ -461,7 +461,7 @@
     398
    </title>
    <g id="a_node12">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/random-pick-index" xlink:title="398. 随机数索引">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/random-pick-index" xlink:title="398. 随机数索引">
      <polygon fill="none" points="284.5,-900 180.5,-900 180.5,-864 284.5,-864 284.5,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="232.5" y="-878.9">
       398. 随机数索引
@@ -487,7 +487,7 @@
     329
    </title>
    <g id="a_node14">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix" xlink:title="329. 矩阵中的最长递增路径">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix" xlink:title="329. 矩阵中的最长递增路径">
      <polygon fill="none" points="457.5,-828 293.5,-828 293.5,-792 457.5,-792 457.5,-828" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="375.5" y="-806.9">
       329. 矩阵中的最长递增路径
@@ -509,7 +509,7 @@
     1203
    </title>
    <g id="a_node23">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies" xlink:title="1203. 项目管理">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies" xlink:title="1203. 项目管理">
      <polygon fill="none" points="424.5,-756 326.5,-756 326.5,-720 424.5,-720 424.5,-756" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="375.5" y="-734.9">
       1203. 项目管理
@@ -531,7 +531,7 @@
     1288
    </title>
    <g id="a_node16">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/remove-covered-intervals" xlink:title="1288. 删除被覆盖区间">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/remove-covered-intervals" xlink:title="1288. 删除被覆盖区间">
      <polygon fill="none" points="820.5,-972 686.5,-972 686.5,-936 820.5,-936 820.5,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="753.5" y="-950.9">
       1288. 删除被覆盖区间
@@ -557,7 +557,7 @@
     218
    </title>
    <g id="a_node17">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/the-skyline-problem" xlink:title="218. 天际线问题">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/the-skyline-problem" xlink:title="218. 天际线问题">
      <polygon fill="none" points="828.5,-900 724.5,-900 724.5,-864 828.5,-864 828.5,-900" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="776.5" y="-878.9">
       218. 天际线问题
@@ -583,7 +583,7 @@
     391
    </title>
    <g id="a_node18">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/perfect-rectangle" xlink:title="391. 完美矩形">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/perfect-rectangle" xlink:title="391. 完美矩形">
      <polygon fill="none" points="806.5,-828 714.5,-828 714.5,-792 806.5,-792 806.5,-828" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="760.5" y="-806.9">
       391. 完美矩形
@@ -605,7 +605,7 @@
     315
    </title>
    <g id="a_node30">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self" xlink:title="315. 计算右侧小于当前元素的个数">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/count-of-smaller-numbers-after-self" xlink:title="315. 计算右侧小于当前元素的个数">
      <polygon fill="none" points="675.5,-324 475.5,-324 475.5,-288 675.5,-288 675.5,-324" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="575.5" y="-302.9">
       315. 计算右侧小于当前元素的个数
@@ -631,7 +631,7 @@
     850
    </title>
    <g id="a_node19">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/rectangle-area-ii" xlink:title="850. 矩形面积 II">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/rectangle-area-ii" xlink:title="850. 矩形面积 II">
      <polygon fill="none" points="589,-756 486,-756 486,-720 589,-720 589,-756" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="537.5" y="-734.9">
       850. 矩形面积 II
@@ -657,7 +657,7 @@
     1157
    </title>
    <g id="a_node61">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/online-majority-element-in-subarray" xlink:title="1157. 子数组中占绝大多数的元素">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/online-majority-element-in-subarray" xlink:title="1157. 子数组中占绝大多数的元素">
      <polygon fill="none" points="634.5,-684 440.5,-684 440.5,-648 634.5,-648 634.5,-684" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="537.5" y="-662.9">
       1157. 子数组中占绝大多数的元素
@@ -683,7 +683,7 @@
     207
    </title>
    <g id="a_node21">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/course-schedule" xlink:title="207. 课程表">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/course-schedule" xlink:title="207. 课程表">
      <polygon fill="none" points="462.5,-972 382.5,-972 382.5,-936 462.5,-936 462.5,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="422.5" y="-950.9">
       207. 课程表
@@ -705,7 +705,7 @@
     210
    </title>
    <g id="a_node22">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/course-schedule-ii" xlink:title="210. 课程表 II">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/course-schedule-ii" xlink:title="210. 课程表 II">
      <polygon fill="none" points="503,-900 412,-900 412,-864 503,-864 503,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="457.5" y="-878.9">
       210. 课程表 II
@@ -735,7 +735,7 @@
     538
    </title>
    <g id="a_node25">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/convert-bst-to-greater-tree" xlink:title="538. 把二叉搜索树转换为累加树">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/convert-bst-to-greater-tree" xlink:title="538. 把二叉搜索树转换为累加树">
      <polygon fill="none" points="668.5,-972 480.5,-972 480.5,-936 668.5,-936 668.5,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="574.5" y="-950.9">
       538. 把二叉搜索树转换为累加树
@@ -757,7 +757,7 @@
     1382
    </title>
    <g id="a_node26">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/balance-a-binary-search-tree" xlink:title="1382. 将二叉搜索树变平衡">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/balance-a-binary-search-tree" xlink:title="1382. 将二叉搜索树变平衡">
      <polygon fill="none" points="679.5,-900 521.5,-900 521.5,-864 679.5,-864 679.5,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="600.5" y="-878.9">
       1382. 将二叉搜索树变平衡
@@ -779,7 +779,7 @@
     1373
    </title>
    <g id="a_node27">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree" xlink:title="1373. 二叉搜索子树的最大键值和">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree" xlink:title="1373. 二叉搜索子树的最大键值和">
      <polygon fill="none" points="696.5,-828 502.5,-828 502.5,-792 696.5,-792 696.5,-828" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="599.5" y="-806.9">
       1373. 二叉搜索子树的最大键值和
@@ -801,7 +801,7 @@
     307
    </title>
    <g id="a_node29">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/range-sum-query-mutable" xlink:title="307. 区域和检索 - 数组可修改">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/range-sum-query-mutable" xlink:title="307. 区域和检索 - 数组可修改">
      <polygon fill="none" points="1014.5,-972 838.5,-972 838.5,-936 1014.5,-936 1014.5,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="926.5" y="-950.9">
       307. 区域和检索 - 数组可修改
@@ -843,7 +843,7 @@
     327
    </title>
    <g id="a_node31">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/count-of-range-sum" xlink:title="327. 区间和的个数">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/count-of-range-sum" xlink:title="327. 区间和的个数">
      <polygon fill="none" points="636.5,-252 520.5,-252 520.5,-216 636.5,-216 636.5,-252" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="578.5" y="-230.9">
       327. 区间和的个数
@@ -877,7 +877,7 @@
     493
    </title>
    <g id="a_node32">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/reverse-pairs" xlink:title="493. 翻转对">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/reverse-pairs" xlink:title="493. 翻转对">
      <polygon fill="none" points="514.5,-180 434.5,-180 434.5,-144 514.5,-144 514.5,-180" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="474.5" y="-158.9">
       493. 翻转对
@@ -911,7 +911,7 @@
     699
    </title>
    <g id="a_node56">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/falling-squares" xlink:title="699. 掉落的方块">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/falling-squares" xlink:title="699. 掉落的方块">
      <polygon fill="none" points="636.5,-180 532.5,-180 532.5,-144 636.5,-144 636.5,-180" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="584.5" y="-158.9">
       699. 掉落的方块
@@ -937,7 +937,7 @@
     1649
    </title>
    <g id="a_node33">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/create-sorted-array-through-instructions" xlink:title="1649. 通过指令创建有序数组">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/create-sorted-array-through-instructions" xlink:title="1649. 通过指令创建有序数组">
      <polygon fill="none" points="622.5,-468 452.5,-468 452.5,-432 622.5,-432 622.5,-468" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="537.5" y="-446.9">
       1649. 通过指令创建有序数组
@@ -963,7 +963,7 @@
     1675
    </title>
    <g id="a_node59">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/minimize-deviation-in-array" xlink:title="1675. 数组的最小偏移量">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/minimize-deviation-in-array" xlink:title="1675. 数组的最小偏移量">
      <polygon fill="none" points="806.5,-396 660.5,-396 660.5,-360 806.5,-360 806.5,-396" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="733.5" y="-374.9">
       1675. 数组的最小偏移量
@@ -989,7 +989,7 @@
     1687
    </title>
    <g id="a_node64">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/delivering-boxes-from-storage-to-ports" xlink:title="1687. 从仓库到码头运输箱子">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/delivering-boxes-from-storage-to-ports" xlink:title="1687. 从仓库到码头运输箱子">
      <polygon fill="none" points="642.5,-396 472.5,-396 472.5,-360 642.5,-360 642.5,-396" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="557.5" y="-374.9">
       1687. 从仓库到码头运输箱子
@@ -1015,7 +1015,7 @@
     292
    </title>
    <g id="a_node35">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/nim-game" xlink:title="292. Nim 游戏">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/nim-game" xlink:title="292. Nim 游戏">
      <polygon fill="none" points="1288,-972 1193,-972 1193,-936 1288,-936 1288,-972" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1240.5" y="-950.9">
       292. Nim 游戏
@@ -1037,7 +1037,7 @@
     521
    </title>
    <g id="a_node36">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/longest-uncommon-subsequence-i" xlink:title="521. 最长特殊序列 Ⅰ">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/longest-uncommon-subsequence-i" xlink:title="521. 最长特殊序列 Ⅰ">
      <polygon fill="none" points="1311,-900 1180,-900 1180,-864 1311,-864 1311,-900" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1245.5" y="-878.9">
       521. 最长特殊序列 Ⅰ
@@ -1063,7 +1063,7 @@
     1033
    </title>
    <g id="a_node37">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/moving-stones-until-consecutive" xlink:title="1033. 移动石子直到连续">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/moving-stones-until-consecutive" xlink:title="1033. 移动石子直到连续">
      <polygon fill="none" points="1321.5,-828 1175.5,-828 1175.5,-792 1321.5,-792 1321.5,-828" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1248.5" y="-806.9">
       1033. 移动石子直到连续
@@ -1085,7 +1085,7 @@
     319
    </title>
    <g id="a_node38">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/bulb-switcher" xlink:title="319. 灯泡开关">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/bulb-switcher" xlink:title="319. 灯泡开关">
      <polygon fill="none" points="1353.5,-756 1261.5,-756 1261.5,-720 1353.5,-720 1353.5,-756" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1307.5" y="-734.9">
       319. 灯泡开关
@@ -1107,7 +1107,7 @@
     777
    </title>
    <g id="a_node39">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/swap-adjacent-in-lr-string" xlink:title="777. 在LR字符串中交换相邻字符">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/swap-adjacent-in-lr-string" xlink:title="777. 在LR字符串中交换相邻字符">
      <polygon fill="none" points="1410,-684 1221,-684 1221,-648 1410,-648 1410,-684" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1315.5" y="-662.9">
       777. 在LR字符串中交换相邻字符
@@ -1129,7 +1129,7 @@
     1227
    </title>
    <g id="a_node40">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/airplane-seat-assignment-probability" xlink:title="1227. 飞机座位分配概率">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/airplane-seat-assignment-probability" xlink:title="1227. 飞机座位分配概率">
      <polygon fill="none" points="1388.5,-612 1242.5,-612 1242.5,-576 1388.5,-576 1388.5,-612" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1315.5" y="-590.9">
       1227. 飞机座位分配概率
@@ -1151,7 +1151,7 @@
     1503
    </title>
    <g id="a_node41">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank" xlink:title="1503. 所有蚂蚁掉下来前的最后一刻">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank" xlink:title="1503. 所有蚂蚁掉下来前的最后一刻">
      <polygon fill="none" points="1418.5,-540 1212.5,-540 1212.5,-504 1418.5,-504 1418.5,-540" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1315.5" y="-518.9">
       1503. 所有蚂蚁掉下来前的最后一刻
@@ -1173,7 +1173,7 @@
     375
    </title>
    <g id="a_node43">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii" xlink:title="375. 猜数字大小 II">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/guess-number-higher-or-lower-ii" xlink:title="375. 猜数字大小 II">
      <polygon fill="none" points="1436,-972 1321,-972 1321,-936 1436,-936 1436,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1378.5" y="-950.9">
       375. 猜数字大小 II
@@ -1195,7 +1195,7 @@
     464
    </title>
    <g id="a_node44">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/can-i-win" xlink:title="464. 我能赢吗">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/can-i-win" xlink:title="464. 我能赢吗">
      <polygon fill="none" points="1453.5,-900 1361.5,-900 1361.5,-864 1453.5,-864 1453.5,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1407.5" y="-878.9">
       464. 我能赢吗
@@ -1217,7 +1217,7 @@
     486
    </title>
    <g id="a_node45">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/predict-the-winner" xlink:title="486. 预测赢家">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/predict-the-winner" xlink:title="486. 预测赢家">
      <polygon fill="none" points="1467.5,-828 1375.5,-828 1375.5,-792 1467.5,-792 1467.5,-828" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1421.5" y="-806.9">
       486. 预测赢家
@@ -1239,7 +1239,7 @@
     877
    </title>
    <g id="a_node46">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/stone-game" xlink:title="877. 石子游戏">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/stone-game" xlink:title="877. 石子游戏">
      <polygon fill="none" points="1476.5,-756 1384.5,-756 1384.5,-720 1476.5,-720 1476.5,-756" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1430.5" y="-734.9">
       877. 石子游戏
@@ -1261,7 +1261,7 @@
     843
    </title>
    <g id="a_node47">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/guess-the-word" xlink:title="843. 猜猜这个单词">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/guess-the-word" xlink:title="843. 猜猜这个单词">
      <polygon fill="none" points="1544.5,-684 1428.5,-684 1428.5,-648 1544.5,-648 1544.5,-684" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1486.5" y="-662.9">
       843. 猜猜这个单词
@@ -1283,7 +1283,7 @@
     913
    </title>
    <g id="a_node48">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/cat-and-mouse" xlink:title="913. 猫和老鼠">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/cat-and-mouse" xlink:title="913. 猫和老鼠">
      <polygon fill="none" points="1529.5,-612 1437.5,-612 1437.5,-576 1529.5,-576 1529.5,-612" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1483.5" y="-590.9">
       913. 猫和老鼠
@@ -1305,7 +1305,7 @@
     220
    </title>
    <g id="a_node50">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/contains-duplicate-iii" xlink:title="220. 存在重复元素 III">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/contains-duplicate-iii" xlink:title="220. 存在重复元素 III">
      <polygon fill="none" points="1164,-972 1033,-972 1033,-936 1164,-936 1164,-972" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1098.5" y="-950.9">
       220. 存在重复元素 III
@@ -1331,7 +1331,7 @@
     731
    </title>
    <g id="a_node51">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/my-calendar-ii" xlink:title="731. 我的日程安排表 II">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/my-calendar-ii" xlink:title="731. 我的日程安排表 II">
      <polygon fill="none" points="1156,-900 1017,-900 1017,-864 1156,-864 1156,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1086.5" y="-878.9">
       731. 我的日程安排表 II
@@ -1353,7 +1353,7 @@
     846
    </title>
    <g id="a_node52">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/hand-of-straights" xlink:title="846. 一手顺子">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/hand-of-straights" xlink:title="846. 一手顺子">
      <polygon fill="none" points="1124.5,-828 1032.5,-828 1032.5,-792 1124.5,-792 1124.5,-828" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1078.5" y="-806.9">
       846. 一手顺子
@@ -1379,7 +1379,7 @@
     855
    </title>
    <g id="a_node53">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/exam-room" xlink:title="855. 考场就座">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/exam-room" xlink:title="855. 考场就座">
      <polygon fill="none" points="1112.5,-756 1020.5,-756 1020.5,-720 1112.5,-720 1112.5,-756" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1066.5" y="-734.9">
       855. 考场就座
@@ -1405,7 +1405,7 @@
     1604
    </title>
    <g id="a_node54">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period" xlink:title="1604. 警告一小时内使用相同员工卡大于等于三次的人">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period" xlink:title="1604. 警告一小时内使用相同员工卡大于等于三次的人">
      <polygon fill="none" points="1202.5,-684 900.5,-684 900.5,-648 1202.5,-648 1202.5,-684" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1051.5" y="-662.9">
       1604. 警告一小时内使用相同员工卡大于等于三次的人
@@ -1431,7 +1431,7 @@
     352
    </title>
    <g id="a_node55">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals" xlink:title="352. 将数据流变为多个不相交区间">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/data-stream-as-disjoint-intervals" xlink:title="352. 将数据流变为多个不相交区间">
      <polygon fill="none" points="1113.5,-468 913.5,-468 913.5,-432 1113.5,-432 1113.5,-468" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1013.5" y="-446.9">
       352. 将数据流变为多个不相交区间
@@ -1465,7 +1465,7 @@
     715
    </title>
    <g id="a_node57">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/range-module" xlink:title="715. Range 模块">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/range-module" xlink:title="715. Range 模块">
      <polygon fill="none" points="594,-108 487,-108 487,-72 594,-72 594,-108" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="540.5" y="-86.9">
       715. Range 模块
@@ -1499,7 +1499,7 @@
     732
    </title>
    <g id="a_node58">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/my-calendar-iii" xlink:title="732. 我的日程安排表 III">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/my-calendar-iii" xlink:title="732. 我的日程安排表 III">
      <polygon fill="none" points="567,-36 424,-36 424,0 567,0 567,-36" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="495.5" y="-14.9">
       732. 我的日程安排表 III
@@ -1557,7 +1557,7 @@
     1521
    </title>
    <g id="a_node62">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/find-a-value-of-a-mysterious-function-closest-to-target" xlink:title="1521. 找到最接近目标值的函数值">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target" xlink:title="1521. 找到最接近目标值的函数值">
      <polygon fill="none" points="634.5,-612 440.5,-612 440.5,-576 634.5,-576 634.5,-612" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="537.5" y="-590.9">
       1521. 找到最接近目标值的函数值
@@ -1583,7 +1583,7 @@
     1526
    </title>
    <g id="a_node63">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array" xlink:title="1526. 形成目标数组的子数组最少增加次数">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array" xlink:title="1526. 形成目标数组的子数组最少增加次数">
      <polygon fill="none" points="658.5,-540 416.5,-540 416.5,-504 658.5,-504 658.5,-540" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="537.5" y="-518.9">
       1526. 形成目标数组的子数组最少增加次数
@@ -1625,7 +1625,7 @@
     720
    </title>
    <g id="a_node66">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/longest-word-in-dictionary" xlink:title="720. 词典中最长的单词">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/longest-word-in-dictionary" xlink:title="720. 词典中最长的单词">
      <polygon fill="none" points="1616.5,-972 1476.5,-972 1476.5,-936 1616.5,-936 1616.5,-972" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1546.5" y="-950.9">
       720. 词典中最长的单词
@@ -1651,7 +1651,7 @@
     208
    </title>
    <g id="a_node67">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/implement-trie-prefix-tree" xlink:title="208. 实现 Trie (前缀树)">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/implement-trie-prefix-tree" xlink:title="208. 实现 Trie (前缀树)">
      <polygon fill="none" points="1649.5,-900 1509.5,-900 1509.5,-864 1649.5,-864 1649.5,-900" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1579.5" y="-878.9">
       208. 实现 Trie (前缀树)
@@ -1677,7 +1677,7 @@
     211
    </title>
    <g id="a_node68">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/design-add-and-search-words-data-structure" xlink:title="211. 添加与搜索单词 - 数据结构设计">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/design-add-and-search-words-data-structure" xlink:title="211. 添加与搜索单词 - 数据结构设计">
      <polygon fill="none" points="1718.5,-828 1506.5,-828 1506.5,-792 1718.5,-792 1718.5,-828" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1612.5" y="-806.9">
       211. 添加与搜索单词 - 数据结构设计
@@ -1703,7 +1703,7 @@
     421
    </title>
    <g id="a_node69">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array" xlink:title="421. 数组中两个数的最大异或值">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array" xlink:title="421. 数组中两个数的最大异或值">
      <polygon fill="none" points="1707.5,-756 1519.5,-756 1519.5,-720 1707.5,-720 1707.5,-756" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1613.5" y="-734.9">
       421. 数组中两个数的最大异或值
@@ -1729,7 +1729,7 @@
     648
    </title>
    <g id="a_node70">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/replace-words" xlink:title="648. 单词替换">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/replace-words" xlink:title="648. 单词替换">
      <polygon fill="none" points="1660.5,-684 1568.5,-684 1568.5,-648 1660.5,-648 1660.5,-684" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1614.5" y="-662.9">
       648. 单词替换
@@ -1755,7 +1755,7 @@
     676
    </title>
    <g id="a_node71">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/implement-magic-dictionary" xlink:title="676. 实现一个魔法字典">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/implement-magic-dictionary" xlink:title="676. 实现一个魔法字典">
      <polygon fill="none" points="1687.5,-612 1547.5,-612 1547.5,-576 1687.5,-576 1687.5,-612" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-590.9">
       676. 实现一个魔法字典
@@ -1781,7 +1781,7 @@
     677
    </title>
    <g id="a_node72">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/map-sum-pairs" xlink:title="677. 键值映射">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/map-sum-pairs" xlink:title="677. 键值映射">
      <polygon fill="none" points="1663.5,-540 1571.5,-540 1571.5,-504 1663.5,-504 1663.5,-540" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-518.9">
       677. 键值映射
@@ -1807,7 +1807,7 @@
     1023
    </title>
    <g id="a_node73">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/camelcase-matching" xlink:title="1023. 驼峰式匹配">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/camelcase-matching" xlink:title="1023. 驼峰式匹配">
      <polygon fill="none" points="1672.5,-468 1562.5,-468 1562.5,-432 1672.5,-432 1672.5,-468" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-446.9">
       1023. 驼峰式匹配
@@ -1833,7 +1833,7 @@
     472
    </title>
    <g id="a_node74">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/concatenated-words" xlink:title="472. 连接词">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/concatenated-words" xlink:title="472. 连接词">
      <polygon fill="none" points="1657.5,-396 1577.5,-396 1577.5,-360 1657.5,-360 1657.5,-396" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-374.9">
       472. 连接词
@@ -1859,7 +1859,7 @@
     745
    </title>
    <g id="a_node75">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/prefix-and-suffix-search" xlink:title="745. 前缀和后缀搜索">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/prefix-and-suffix-search" xlink:title="745. 前缀和后缀搜索">
      <polygon fill="none" points="1681.5,-324 1553.5,-324 1553.5,-288 1681.5,-288 1681.5,-324" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-302.9">
       745. 前缀和后缀搜索
@@ -1885,7 +1885,7 @@
     1032
    </title>
    <g id="a_node76">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/stream-of-characters" xlink:title="1032. 字符流">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/stream-of-characters" xlink:title="1032. 字符流">
      <polygon fill="none" points="1660.5,-252 1574.5,-252 1574.5,-216 1660.5,-216 1660.5,-252" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-230.9">
       1032. 字符流
@@ -1911,7 +1911,7 @@
     1707
    </title>
    <g id="a_node77">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array" xlink:title="1707. 与数组中元素的最大异或值">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/maximum-xor-with-an-element-from-array" xlink:title="1707. 与数组中元素的最大异或值">
      <polygon fill="none" points="1714.5,-180 1520.5,-180 1520.5,-144 1714.5,-144 1714.5,-180" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-158.9">
       1707. 与数组中元素的最大异或值
@@ -1937,7 +1937,7 @@
     1803
    </title>
    <g id="a_node78">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/count-pairs-with-xor-in-a-range" xlink:title="1803. 统计异或值在范围内的数对有多少">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/count-pairs-with-xor-in-a-range" xlink:title="1803. 统计异或值在范围内的数对有多少">
      <polygon fill="none" points="1732.5,-108 1502.5,-108 1502.5,-72 1732.5,-72 1732.5,-108" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="1617.5" y="-86.9">
       1803. 统计异或值在范围内的数对有多少

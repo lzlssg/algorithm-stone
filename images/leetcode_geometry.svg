@@ -15,7 +15,7 @@
     Leetcode-几何
    </title>
    <g id="a_node1">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/tag/geometry" xlink:title="Leetcode-几何(9)">
+    <a target="_parent" xlink:href="https://leetcode.com/tag/geometry" xlink:title="Leetcode-几何(9)">
      <polygon fill="orangered" points="156.5,-684 25.5,-684 25.5,-648 156.5,-648 156.5,-684" stroke="lightgrey"/>
      <text fill="white" font-family="Microsoft YaHei" font-size="14.00" text-anchor="middle" x="91" y="-662.3">
       Leetcode-几何(9)
@@ -29,7 +29,7 @@
     892
    </title>
    <g id="a_node2">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/surface-area-of-3d-shapes" xlink:title="892. 三维形体的表面积">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/surface-area-of-3d-shapes" xlink:title="892. 三维形体的表面积">
      <polygon fill="none" points="161,-612 21,-612 21,-576 161,-576 161,-612" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-590.9">
       892. 三维形体的表面积
@@ -55,7 +55,7 @@
     1232
    </title>
    <g id="a_node3">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/check-if-it-is-a-straight-line" xlink:title="1232. 缀点成线">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/check-if-it-is-a-straight-line" xlink:title="1232. 缀点成线">
      <polygon fill="none" points="140,-540 42,-540 42,-504 140,-504 140,-540" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-518.9">
       1232. 缀点成线
@@ -81,7 +81,7 @@
     1266
    </title>
    <g id="a_node4">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/minimum-time-visiting-all-points" xlink:title="1266. 访问所有点的最小时间">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/minimum-time-visiting-all-points" xlink:title="1266. 访问所有点的最小时间">
      <polygon fill="none" points="176,-468 6,-468 6,-432 176,-432 176,-468" stroke="greenyellow"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-446.9">
       1266. 访问所有点的最小时间
@@ -107,7 +107,7 @@
     963
    </title>
    <g id="a_node5">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/minimum-area-rectangle-ii" xlink:title="963. 最小面积矩形 II">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/minimum-area-rectangle-ii" xlink:title="963. 最小面积矩形 II">
      <polygon fill="none" points="154.5,-396 27.5,-396 27.5,-360 154.5,-360 154.5,-396" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-374.9">
       963. 最小面积矩形 II
@@ -133,7 +133,7 @@
     1401
    </title>
    <g id="a_node6">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/circle-and-rectangle-overlapping" xlink:title="1401. 圆和矩形是否有重叠">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/circle-and-rectangle-overlapping" xlink:title="1401. 圆和矩形是否有重叠">
      <polygon fill="none" points="170,-324 12,-324 12,-288 170,-288 170,-324" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-302.9">
       1401. 圆和矩形是否有重叠
@@ -159,7 +159,7 @@
     587
    </title>
    <g id="a_node7">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/erect-the-fence" xlink:title="587. 安装栅栏">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/erect-the-fence" xlink:title="587. 安装栅栏">
      <polygon fill="none" points="137,-252 45,-252 45,-216 137,-216 137,-252" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-230.9">
       587. 安装栅栏
@@ -185,7 +185,7 @@
     1453
    </title>
    <g id="a_node8">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard" xlink:title="1453. 圆形靶内的最大飞镖数量">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard" xlink:title="1453. 圆形靶内的最大飞镖数量">
      <polygon fill="none" points="182,-180 0,-180 0,-144 182,-144 182,-180" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-158.9">
       1453. 圆形靶内的最大飞镖数量
@@ -211,7 +211,7 @@
     1515
    </title>
    <g id="a_node9">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/best-position-for-a-service-centre" xlink:title="1515. 服务中心的最佳位置">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/best-position-for-a-service-centre" xlink:title="1515. 服务中心的最佳位置">
      <polygon fill="none" points="170,-108 12,-108 12,-72 170,-72 170,-108" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-86.9">
       1515. 服务中心的最佳位置
@@ -237,7 +237,7 @@
     1610
    </title>
    <g id="a_node10">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/maximum-number-of-visible-points" xlink:title="1610. 可见点的最大数目">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/maximum-number-of-visible-points" xlink:title="1610. 可见点的最大数目">
      <polygon fill="none" points="164,-36 18,-36 18,0 164,0 164,-36" stroke="red"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="91" y="-14.9">
       1610. 可见点的最大数目

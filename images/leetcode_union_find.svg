@@ -15,7 +15,7 @@
     Leetcode-并查集
    </title>
    <g id="a_node1">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/tag/union-find" xlink:title="Leetcode-并查集(3)">
+    <a target="_parent" xlink:href="https://leetcode.com/tag/union-find" xlink:title="Leetcode-并查集(3)">
      <polygon fill="orangered" points="145,-324 0,-324 0,-288 145,-288 145,-324" stroke="lightgrey"/>
      <text fill="white" font-family="Microsoft YaHei" font-size="14.00" text-anchor="middle" x="72.5" y="-302.3">
       Leetcode-并查集(3)
@@ -47,7 +47,7 @@
     130
    </title>
    <g id="a_node3">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/surrounded-regions" xlink:title="130. 被围绕的区域">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/surrounded-regions" xlink:title="130. 被围绕的区域">
      <polygon fill="none" points="130.5,-180 14.5,-180 14.5,-144 130.5,-144 130.5,-180" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="72.5" y="-158.9">
       130. 被围绕的区域
@@ -73,7 +73,7 @@
     200
    </title>
    <g id="a_node4">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/number-of-islands" xlink:title="200. 岛屿数量">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/number-of-islands" xlink:title="200. 岛屿数量">
      <polygon fill="none" points="118.5,-108 26.5,-108 26.5,-72 118.5,-72 118.5,-108" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="72.5" y="-86.9">
       200. 岛屿数量
@@ -99,7 +99,7 @@
     547
    </title>
    <g id="a_node5">
-    <a target="_parent" xlink:href="https://leetcode-cn.com/problems/number-of-provinces" xlink:title="547. 省份数量">
+    <a target="_parent" xlink:href="https://leetcode.com/problems/number-of-provinces" xlink:title="547. 省份数量">
      <polygon fill="none" points="118.5,-36 26.5,-36 26.5,0 118.5,0 118.5,-36" stroke="orange"/>
      <text font-family="Microsoft YaHei" font-size="12.00" text-anchor="middle" x="72.5" y="-14.9">
       547. 省份数量
